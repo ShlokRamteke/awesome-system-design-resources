@@ -3,10 +3,10 @@ This repository contains System Design articles and videos which are useful duri
 
 ## System Design Fundamentals
 
-- [] [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
-- [] [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
-- [] [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [] [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+- [ ] [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- [ ] [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
+- [ ] [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [ ] [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
